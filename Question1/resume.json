@@ -1,0 +1,58 @@
+{
+        "Resume" :{
+            "name":"Premalatha UG",
+            "Picture":" ",
+            "DateOfBirth":"21 may 1992",
+            "Email":"premalatha21292@gmail.com",
+            "PhoneNo":"9876543210",
+            "EducationQualification":"M.sc(cs)",
+            "Address":{
+                       "Doorno":"234",
+                       "Street":"KumaranStreet",
+                       "City":"Tambaram",
+                       "District":"Chengalpattu",
+                       "postalCode":"600061",
+                       "State":"TamilNadu"
+
+          },
+          "Profiles":[
+            {
+                "SocialMedia":"LinkedIn,Twitter",
+                "Username":"**********"
+                
+            }
+          ],
+          
+            "Education":[
+                {
+                "Institution":"abcd College",
+                "AreaOfStudy":"Computer Science",
+                "Courses":"PGDCA"
+                }
+            ],
+            "Skills":[
+                {
+                 "ProgrammingLanguage":"C++,Java",
+
+                }
+            ],
+            
+            "Languages":[
+                 {
+                "LanguagesKnown":"Tamil,English,Hindi",
+                "Fluency":"Tamol,English"
+                    }
+                ],
+            "Hobbies":[
+                {
+                    "Games":"ThrowBall,Cricket",
+                    "Others":"ReadingBooks"
+                }
+                ]
+            }
+
+          
+
+        }
+    
+
